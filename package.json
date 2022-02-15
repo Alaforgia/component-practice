@@ -1,0 +1,16 @@
+{
+  "name": "component-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/anthonylaforgia/Prime/tier2/week10/git@github.com:Alaforgia/component-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
